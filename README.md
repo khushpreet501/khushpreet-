@@ -15,3 +15,4 @@ $(Dollar)
 😁
 😊
 😅
+lab 6 [CLI commands](Docs/Cli.md)
